@@ -1,0 +1,16 @@
+{
+    "name": "Rieru VPM Listing",
+    "id": "dev.rierun.vpm",
+    "url": "https://vpm.rierun.dev/index.json",
+    "author": {
+        "email": "rierun@rierun.dev",
+        "name": "Shimotuki Rieru",
+        "url": "https://x.com/rieruvrc"
+    },
+    "description": "開発したVRChat向けのプロジェクトのリストです。Add VCCで、VCCもしくはALCOMで利用できます。",
+    "infoLink": {
+        "url": "https://github.com/Narazaka/vpm-repos",
+        "text": "View on GitHub"
+    },
+    "githubRepos": ["jf9tgl/ArmatureScaleCopier"]
+}
