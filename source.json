@@ -8,9 +8,5 @@
         "url": "https://x.com/rieruvrc"
     },
     "description": "開発したVRChat向けのプロジェクトのリストです。Add VCCで、VCCもしくはALCOMで利用できます。",
-    "infoLink": {
-        "url": "https://github.com/Narazaka/vpm-repos",
-        "text": "View on GitHub"
-    },
     "githubRepos": ["jf9tgl/ArmatureScaleCopier"]
 }
